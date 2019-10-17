@@ -34,3 +34,7 @@ In fact you can keep everything, yeah, yeah
 Except for me
 
 additional commit (first)
+
+additional commit (second)
+
+additional commit (third)
